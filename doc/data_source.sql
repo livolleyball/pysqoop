@@ -1,0 +1,9 @@
+--  read/write
+--  "url"
+--  "username"
+--  "userName"
+--  "password"
+--   "driverClass
+--   "database"
+--   "ip"
+--   "port"
